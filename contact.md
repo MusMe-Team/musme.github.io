@@ -1,4 +1,4 @@
-#Contact Us
+Contact Us:
 
 <form
   action="https://formspree.io/f/xdobwwyw"
@@ -8,6 +8,7 @@
     Your email:
     <input type="email" name="email">
   </label>
+  </br>
   <label>
     Your message:
     <textarea name="message"></textarea>
